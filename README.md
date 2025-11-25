@@ -1,8 +1,9 @@
 # Private Smart Contract Security Reviews
 
-| Protocol | Description | Report |
-|----------|-------------|------------|
-| UniVoucher | Protocol allowing users to create crypto gift cards with ETH or ERC-20 tokens, redeemable by holders of card secrets, with TVL tracking the total value of active cards. | [📄](https://github.com/SafetyBytes/Audits/blob/main/reports/UniVoucher.pdf) |
+| Protocol | Description | Report | 💼 Provider |
+|----------|-------------|------------| ------------|
+| Colb Finance - Liquids |   |  | [Shieldify Security](https://www.shieldify.org/) |
+| UniVoucher | Protocol allowing users to create crypto gift cards with ETH or ERC-20 tokens, redeemable by holders of card secrets, with TVL tracking the total value of active cards. | [📄](https://github.com/SafetyBytes/Audits/blob/main/reports/UniVoucher.pdf) | SafetyBytes |
 
 # Public Competitions
 
