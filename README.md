@@ -2,6 +2,7 @@
 
 | Protocol | Description | Report | 💼 Provider |
 |----------|-------------|------------| ------------|
+| Private | Private | Private | [BurraSec](https://www.burrasec.com/) |
 | Colb Finance - Liquids | RWAs, Pre-IPO, Liquids | Soon | [Shieldify Security](https://www.shieldify.org/) |
 | UniVoucher | Protocol allowing users to create crypto gift cards with ETH or ERC-20 tokens, redeemable by holders of card secrets, with TVL tracking the total value of active cards. | [📄](https://github.com/SafetyBytes/Audits/blob/main/reports/UniVoucher.pdf) | SafetyBytes |
 
@@ -9,7 +10,8 @@
 
 | Protocol | Description | Language | Highlights |
 |----------|-------------|------------| ------------|
-| Reflector V3 | Decentralized price feed oracle for Stellar DeFi smart contracts to support derivatives, lending, and asset management | Rust | |  |
+| Inverse Finance - Junior Tranche | Insurance system for FiRM and DOLA, focusing on ERC-4626 accounting, slashing, withdrawals, and debt repayment | Solidity | 3rd 🥉 place | |
+| Reflector V3 | Decentralized price feed oracle for Stellar DeFi smart contracts to support derivatives, lending, and asset management | Rust |  |  |
 | Summer.fi - Governance v2 | Second deployment of Summer.fi’s governance system featuring the new xSUMR token, SummerGovernor, and staking modules for vesting wallets and SUMR (OFT-enabled) tokens. | Solidity |  Top 10 |
 | Rezerve Money | Decentralized treasury accumulation protocol aiming to grow a 1M ETH treasury, powered by community and DeFi. | Solidity |
 | Malda | Unified liquidity lending protocol on Ethereum and Layer 2s, providing seamless borrowing and lending via global pools secured by zkProofs. | Solidity | Top 10 |
